@@ -1,4 +1,4 @@
-# 
+# Official AI Quiz Generator presets. Featuring data-augmentation and explainable-AI — optimized for maximum performance.
 
 
 
